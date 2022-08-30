@@ -8,7 +8,7 @@ export const LAYOUT_HEADER_LINKS = [
     label: 'Features',
   },
   {
-    link: '/#',
+    link: '/##',
     label: 'Pricing',
   },
 ];
